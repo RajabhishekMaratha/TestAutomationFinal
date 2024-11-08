@@ -1,0 +1,70 @@
+14:49:09.533 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+14:49:10.051 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+14:49:28.008 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+14:49:28.011 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+14:49:37.703 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+14:49:52.693 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+14:49:53.838 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+14:49:55.917 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+14:49:57.124 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanAmount Elements displayed or not
+14:49:58.856 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+14:49:59.754 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanTenure Elements displayed or not
+12:12:32.331 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+12:12:32.356 [main] INFO  cucumber.hooks.DriverInstance - Tapping CarLoan option
+12:12:32.768 [main] INFO  cucumber.hooks.DriverInstance - Entering car loan value
+12:12:33.094 [main] INFO  cucumber.hooks.DriverInstance - Entering Interest
+12:12:33.488 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+12:12:33.894 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+12:12:54.707 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+12:12:54.710 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+12:13:02.262 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+12:13:17.205 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+12:13:18.452 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+12:13:19.792 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+12:13:20.614 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanAmount Elements displayed or not
+12:13:21.917 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+12:13:23.090 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanTenure Elements displayed or not
+18:07:15.796 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:07:15.815 [main] INFO  cucumber.hooks.DriverInstance - Tapping CarLoan option
+18:07:16.180 [main] INFO  cucumber.hooks.DriverInstance - Entering car loan value
+18:07:16.506 [main] INFO  cucumber.hooks.DriverInstance - Entering Interest
+18:07:16.821 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+18:07:17.193 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+18:08:02.055 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:08:02.057 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+18:08:09.943 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+18:08:24.416 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:08:26.883 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+18:08:28.425 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+18:08:29.165 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanAmount Elements displayed or not
+18:08:30.688 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+18:08:31.602 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanTenure Elements displayed or not
+18:10:12.961 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:10:12.987 [main] INFO  cucumber.hooks.DriverInstance - Tapping CarLoan option
+18:10:13.460 [main] INFO  cucumber.hooks.DriverInstance - Entering car loan value
+18:10:13.757 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:10:13.800 [main] INFO  cucumber.hooks.DriverInstance - Tapping CarLoan option
+18:10:13.929 [main] INFO  cucumber.hooks.DriverInstance - Entering Interest
+18:10:14.355 [main] INFO  cucumber.hooks.DriverInstance - Entering car loan value
+18:10:14.437 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+18:10:14.873 [main] INFO  cucumber.hooks.DriverInstance - Entering Interest
+18:10:15.104 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+18:10:15.240 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+18:10:15.674 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+18:10:31.919 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:10:31.922 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+18:10:34.200 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:10:34.203 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+18:10:42.238 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+18:10:45.008 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+18:10:58.202 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:10:59.979 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+18:11:00.073 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+18:11:01.774 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+18:11:02.419 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+18:11:02.998 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanAmount Elements displayed or not
+18:11:05.152 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+18:11:05.453 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+18:11:06.375 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanAmount Elements displayed or not
+18:11:07.664 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanTenure Elements displayed or not
+18:11:09.014 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified

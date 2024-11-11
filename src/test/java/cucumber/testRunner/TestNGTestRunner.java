@@ -8,7 +8,7 @@ import io.cucumber.testng.CucumberOptions;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "src/test/resources/Features",
+		features = "src/test/java/Features",
 		dryRun = false,
 		glue = "cucumber",
 		monochrome=true,

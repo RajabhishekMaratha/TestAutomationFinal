@@ -22,21 +22,21 @@ public class CarLoanCalcSteps extends DriverInstance{
 	}
 	
 	
-	@Given("send car loan amount value as {int}")
+	@Given("^send car loan amount value as (.+)$")
 	public void sendCarLoanAmountValueAs(Integer loanAmount) {
 		DriverInstance.getLogger().info("Entering car loan value");
 	    poc.loanAmount(loanAmount);
 		ScreenShot.takeScreenshot(DriverInstance.getDriver(),"carLoanValue");
 	}
 	
-	@Given("send interest rate as {double}")
+	@Given("^send interest rate as (.+)$")
 	public void sendInterestRateAs(Double interestRate) {
 		DriverInstance.getLogger().info("Entering Interest");
 	    poc.interestRate(interestRate);
 		ScreenShot.takeScreenshot(DriverInstance.getDriver(), "interest_value");
 	}
 	
-	@Given("send loan tensure as {int}")
+	@Given("^send loan tensure as (.+)$")
 	public void sendLoanTenureAs(Integer loanTenure) throws Exception {
 	   DriverInstance.getLogger().info("Entering Tenure");
 	   poc.loanTenure(loanTenure);

@@ -56,7 +56,7 @@ public class CarLoanCalcSteps extends DriverInstance{
 	    int interestAmount=Integer.parseInt(amounts[0].replaceAll("[^0-9]", ""));
 	    int principleAmount=Integer.parseInt(amounts[1].replaceAll("[^0-9]", ""));
 	    
-	    System.out.println("Interest Amount Of First Month: ₹"+interestAmount+"\nPrinciple Amount Of First Month: ₹"+principleAmount);
+	    System.out.println("Interest Amount Of First Month: Rs."+interestAmount+"\nPrinciple Amount Of First Month: Rs."+principleAmount);
 	    
 	    Assert.assertTrue(interestAmount>0&&principleAmount>0);
 		ScreenShot.takeScreenshot(DriverInstance.getDriver(), "interest_principle_amount");

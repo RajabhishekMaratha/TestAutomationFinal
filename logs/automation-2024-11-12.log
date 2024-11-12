@@ -1,0 +1,58 @@
+17:46:22.162 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanTenure Elements displayed or not
+17:47:51.908 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+17:47:51.947 [main] INFO  cucumber.hooks.DriverInstance - Tapping CarLoan option
+17:47:52.318 [main] INFO  cucumber.hooks.DriverInstance - Entering car loan value
+17:47:52.690 [main] INFO  cucumber.hooks.DriverInstance - Entering Interest
+17:47:53.024 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+17:47:53.383 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+17:48:39.442 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+17:48:39.444 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+17:49:16.040 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+17:49:59.205 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+17:50:00.502 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+17:50:02.391 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+17:50:03.352 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanAmount Elements displayed or not
+17:50:04.823 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+17:50:05.802 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanTenure Elements displayed or not
+10:43:18.303 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:43:18.326 [main] INFO  cucumber.hooks.DriverInstance - Tapping CarLoan option
+10:43:18.734 [main] INFO  cucumber.hooks.DriverInstance - Entering car loan value
+10:43:19.119 [main] INFO  cucumber.hooks.DriverInstance - Entering Interest
+10:43:19.559 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+10:43:19.979 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+10:43:39.607 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:43:39.608 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+10:43:49.470 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+10:44:37.051 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:44:38.560 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+10:44:40.319 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+10:44:41.310 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanAmount Elements displayed or not
+10:44:43.223 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+10:44:44.241 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanTenure Elements displayed or not
+10:51:49.247 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:51:49.290 [main] INFO  cucumber.hooks.DriverInstance - Tapping CarLoan option
+10:51:49.798 [main] INFO  cucumber.hooks.DriverInstance - Entering car loan value
+10:51:50.284 [main] INFO  cucumber.hooks.DriverInstance - Entering Interest
+10:51:50.779 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+10:51:51.304 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+10:52:11.298 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:52:11.301 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+10:52:22.222 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+10:52:37.449 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:52:38.435 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+10:52:40.087 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+10:52:40.993 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanAmount Elements displayed or not
+10:52:42.998 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified
+10:52:43.890 [main] INFO  cucumber.hooks.DriverInstance - Checking LoanTenure Elements displayed or not
+10:53:51.481 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:53:51.519 [main] INFO  cucumber.hooks.DriverInstance - Tapping CarLoan option
+10:53:52.047 [main] INFO  cucumber.hooks.DriverInstance - Entering car loan value
+10:53:52.489 [main] INFO  cucumber.hooks.DriverInstance - Entering Interest
+10:53:52.911 [main] INFO  cucumber.hooks.DriverInstance - Entering Tenure
+10:53:53.359 [main] INFO  cucumber.hooks.DriverInstance - Capturing interest and principle amount for first month
+10:54:22.034 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:54:22.036 [main] INFO  cucumber.hooks.DriverInstance - valildating HomeLoan
+10:54:30.656 [main] INFO  cucumber.hooks.DriverInstance - writing the values in the sheets
+10:54:54.331 [main] INFO  cucumber.hooks.DriverInstance - Web Page opens
+10:54:55.684 [main] INFO  cucumber.hooks.DriverInstance - Checking EMI_Calculator Elements displayed or not
+10:54:57.442 [main] INFO  cucumber.hooks.DriverInstance - Year And Month verified

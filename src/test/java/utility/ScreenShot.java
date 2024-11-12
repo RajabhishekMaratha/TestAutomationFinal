@@ -18,10 +18,10 @@ public class ScreenShot {
 			File desc = new File("./src/Output/ScreenShot/img-"+count+"_"+name+".png");
 			Files.copy(src, desc);
 			AttachScreenshot.attachScreenshotToReport(desc);
-			System.out.println("Snap has been taken Successfully");
+			System.out.println("Screenshot has been taken Successfully");
 			count++;
 		}catch(Exception e) {
-			System.out.println("Snap has not taken");
+			System.out.println("Screenshot has not taken");
 		}
 	}
 

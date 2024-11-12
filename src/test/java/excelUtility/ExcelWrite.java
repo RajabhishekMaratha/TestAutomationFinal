@@ -31,7 +31,7 @@ public void writeinTable(List<String> str) {
 		wbook.write(out);		
 		wbook.close();
 		out.close();
-	    System.out.println("Output succesfully write in excel file");
+	    System.out.println("Output succesfully written to excel file");
 	}catch(Exception e)
 	{
 		System.out.println("Output not writtern in excel file"+e);
